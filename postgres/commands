@@ -1,0 +1,12 @@
+//
+
+// login
+sudo -u postgres psql postgres
+
+//connection string(sql alchemy)
+"host='localhost' dbname='my_database' user='postgres' password='secret'"
+
+//list all databases
+\l
+\l+
+
